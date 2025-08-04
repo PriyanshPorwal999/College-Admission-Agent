@@ -13,9 +13,13 @@ Admission counselors
 
 ## ⚙️ Architecture:
 User Inputs Query via frontend
+
 Backend API receives query
+
 Retriever searches IBM Discovery indexes (brochures, policies, etc.)
+
 Generator (IBM Granite) uses retrieved text + query to generate natural language answer
+
 Response Sent back to frontend
 
 
