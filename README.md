@@ -8,6 +8,8 @@ Many students and parents struggle with:
 
 **EnrollMate** solves this by providing a real-time, AI-powered admission assistant that is available 24/7.
 
+![Homepage Screenshot](Assets\Welcome.png)
+
 ## 📌 Core Functionality
 1. Retrieve real-time and official data (policies, FAQs, deadlines).
 2. Summarize and present info in user-friendly responses.
