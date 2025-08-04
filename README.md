@@ -52,6 +52,8 @@ Response Sent back to frontend
 | *“When is the last date for application submission?”* | Real-time deadline fetched and returned             |
 | *“What are the hostel fees for girls?”*               | Specific fee structure info with details            |
 
+![Use Case Screenshot](Assets/Scholarship.png)
+
 
 ## ⚡ Features / WOW Factors
 
