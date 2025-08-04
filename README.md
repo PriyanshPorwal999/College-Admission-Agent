@@ -26,7 +26,9 @@ Many students and parents struggle with:
 
 ## 🎯 End-User
 High school students
+
 Parents/guardians
+
 Admission counselors
 
 ## ⚙️ Architecture:
